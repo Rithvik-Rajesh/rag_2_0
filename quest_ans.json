@@ -1,0 +1,30 @@
+{
+    "Q1": {
+        "text": "What is the key finding about Mo addition to FeCoNiCrMox HEA coatings?",
+        "answer": "Mo addition can significantly enhance the wear and corrosion resistances of FeCoNiCrMox HEA coatings prepared using laser powder directed energy deposition."
+    },
+    "Q2": {
+        "text": "How does Mo addition affect the corrosion resistance of CoCrFeNiTa HEAs?",
+        "answer": "The addition of Mo reduces the corrosion rate by more than 50% compared to the unalloyed material."
+    },
+    "Q3": {
+        "text": "What is the role of Mo in enhancing the corrosion resistance of HEAs?",
+        "answer": "Mo forms a rich oxide layer on the surface, providing excellent protection against corrosion and wear."
+    },
+    "Q4": {
+        "text": "Can Cr addition also enhance the corrosion resistance of HEAs?",
+        "answer": "Yes, one study found that the amount of Cr present significantly affects the corrosion behavior of AlCrFeNi2Cu1.6 HEAs."
+    },
+    "Q5": {
+        "text": "How does Mo addition affect the passivation behavior of CoCrFeNiMox (x = 0, 0.1, 0.2, 0.3) HEAs and MP35N?",
+        "answer": "The addition of Mo improves the passivation behavior."
+    },
+    "Q6": {
+        "text": "What is the corrosion behavior of Al0.8CrFeNi2.2 eutectic HEA like in different media?",
+        "answer": "The alloy exhibits excellent corrosion resistance in all three environments (air, water, and 3.5 wt% NaCl solution)."
+    },
+    "Q7": {
+        "text": "What is the overall importance of Mo addition to HEAs?",
+        "answer": "Mo addition can significantly enhance the corrosion resistance of HEAs."
+    }
+}
