@@ -10,7 +10,6 @@ SUMMARY_PATH = "data/summarize/"
 model = BartForConditionalGeneration.from_pretrained('facebook/bart-large-cnn')
 tokenizer = BartTokenizer.from_pretrained('facebook/bart-large-cnn')
 
-
 def summarize(content):
     text = ""
 
@@ -43,11 +42,12 @@ def read_pdf(filename):
 def generate_summaries():
     filenames = [i.rstrip('.pdf') for i in os.listdir(PDF_PATH) if i.endswith(".pdf")]
     for filename in filenames:
+        if filename == "doc1" or filename == "doc5":
+            continue
         print(f"Generating summary for {filename}")
         content = read_pdf(filename)
         summary = summarize(content)
         save_summary(summary,filename)
-        break
     print("Done")
 
 if __name__ == "__main__":

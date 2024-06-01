@@ -1,0 +1,73 @@
+A study on the structural, wear, and corrosion properties of a CoCuFeNiMo high-entropy alloy. 
+The alloy exhibited segregation of Cu, attributed to positive mixing enthalpy. 
+The coefficient of friction exhibited stability under lower loads but fluctuated under higher loads. 
+Wear rates increased linearly with applied loads, indicating a direct relationship between load and wear properties. 
+The worn surfaces displayed characteristics of mild abrasivewear, with delaminations, plowing, and abrasive wear tracks. 
+Pitting corrosion was observed, and the corrosion process was explained as the attack of Cl- ions leading to galvanic 
+corrosion between different phases.The first high-entropy alloys were created by Cantor et al. [1] as trary, 
+the CoCuFeNi high entropy alloy is capable of forming two CoCrFeNiMn and CoCrCuFeNiAlx. Additional elements, such as 
+Al, Mn, Mo, and Nb, aredisfavoring the Cu element. The role of Cu in high entropy alloys re- frequently introduced 
+into high-endurance alloys to enhance their strength is unclear.The addition of Cu can often tronic industries because
+they have already proven better tribologicalform secondary phases such as Cu-rich FCC, L12 [3,6]. The quaternary and 
+corrosion resistance than conventional alloys. In addition, it has been reported that they can be produced with
+different fabrication techniques.The wear properties of the alloy were confirmed in contact withTiZrHfNb-based 
+RHEAs. The alloy can effectively improve the corrosion and wear 4140 stainless steel at dry condition using a pin-on
+disc machine. It has also been found that AlCoCrFeNi HEA has better wear resistance.Wang et al. [17] studied the 
+tribocorrosion behavior of AlCoCrFeNi2.1 high entropy alloy. The alloy maintains high.hardness (>197 HV) up to 
+900 ◦C. The wear rates of the alloy increased monotonically from room temperature to 900.C. Dual Cu-poor FCC1 and 
+Cu-richCu method and applied laser remelting process to regulate the micro-FCC2 were detected in the 
+Cu28.36Ni22.32Fe19.12Co15.17Cr12.26Mo2.77 structure.. The AlCoCrFeNiTax alloys had typical dendritic morphology and 
+were prepared by the plasma arc additive manufacturing. Hardness and wear resistance of. (CoCuFeNi)100-xMox 
+(x =10, 15, 19, and 25at. %) alloys improved by increasing Ta content. In this study, only equiatomic. CoCuFeNiMo 
+alloy was created by removing Cr and Mn from CoCr FeNiMn (Cantor alloy) and.adding Cu and Mo instead. The alloy was 
+melted in a water-cooled Cu crucible with a W electrode. X-ray diffraction (XRD) analysis was performed with the 
+radiation source CuKα radiation in the 2θ range.The hardness of the Mo-containing phase is highest while the hardness 
+of Cu-produced by arc melting, have only a single FCC solid solution phase, rich phase is lowest. Shun et al. [24]’s 
+study, Mo0 and Mo0.3 alloys among the CoCrFe- taken from 5 different points are given in Table 1. Bae microhardness 
+value of the (CoCuFeNi)75Mo25 alloy is 518 HV. As a loads as a function of time under dry sliding is shown in Fig. 4. 
+The coefficient of friction curve of CoCuFeNiMo alloy with different Fe55Ni10Mo5 and Co18Cr12.5Fe55Ni7Mo7.5 by induction
+melting.The microstructure of CoCuFeNiMo high entropy alloys by SEM is in the friction coefficient under 50N load up 
+to approximately 750sec. Cu decomposes structure of the alloy, crack formations on the worn surface, oxidation or from 
+others. Cu segregates delamination layers formation [29]. Since there was no change in phase.and does not mix with Co, 
+Fe and Ni in this alloy, no effect can be considered.The friction coefficient of the CoCuFeNiMo alloy increased as the
+load amount increased. Cu is appearance of wear debris, oxide layer and local cracks on the surface of the alloy 
+(Cu-rich FCC2 phase). On the other hand, spectrum 9 and the alloy may cause this fluctuation. Similar EDX results 
+with three different compositions are seen in study systematically examining the effects of Mo content on the CoCuFeNi
+100-xMox at% (x =15, 19, and 25) alloys.wear properties of the alloy. Features like delaminations, plowing, abrasive 
+wear tracks and some wear debris, which are characteristics of dry sliding wear, are clearly visible. The worn surface 
+in the vicinity of the grooves re-includes relatively undisturbed. As the load increases, the formation of oxide and 
+delamination also increases. Loss of continuity and occurred progressivelydamage, especially at high loads, on the 
+surface caused an increase in wear loss.Fig. 6. SEM morphologies of worn surfaces of CoCuFeNiMo high entropy alloy 
+under 12.5N, 25N, and 50N loads. Fig. 9 shows the Nyquist curve (Fig. 9.a) and Bode and phase angle of the solution 
+at room temperature. The Ecorr curves of the alloys in 3.5wt% NaCl solution at 0.616V are illustrated in Fig. 7.The 
+self-corrosion current density on the CoCuFeNiMo gradually stabilizes, considerable extent. The reason for the 
+formation of pitting corrosion is the attack of Cl ions. Some pitting pits with a size of approximately 4 μm were 
+seen in corrosion properties of the high-entropy alloy. The corrosion corrosion of high entropy alloys in the 
+literature was localized in both image modes. The study was conducted to evaluate the structural, wear, and corrosion 
+properties.Small cavities are formed at inhomogeneous grain phases and slightly a (µ) phase. These small cavities 
+gradually grew and merged with other were observed under a 50N load. As a result, nonuniform corrosion eventually 
+resulted. This and 1.211 × 10(cid:0) 4 mm3/N.m at 50N.Microstructure, hardness and tensile properties of as-cast 
+Al–3.8wt%Cu–(Cr) are potentially suitable for various industrial applications. The alloy also of (CoCuFeNi)100-xAlx 
+high entropy alloys, J. Alloy. Compd. 933 (2023) 167679. These findings contribute significantly to understanding the 
+role of Cu, Scr. Mater. Res. Technol. 9 (2020) 6620–6631.1.optimizing the potential of high-entropy alloys in 
+engineering [6] D.G. Kim, Y.H. Jo, J.M. Park, W.-M. Choi, H.S. Kim and B.-J. Lee. 2. Effects of annealing temperature 
+on microstructures and tensile properties of a. single FCC phase CoCuMnNi. 3. Wear and corrosion the role of 
+Mo, Int. J. Refract Met. Met. 102 (2022) 105721. 4. New studies on wear and corrosion behavior of laser cladding 
+FeNiCoCrMox high entropy alloy coating: 5127–5133. 5. The authors declare that they have no known competing financial 
+interests.Tribol. Int. 193 (2024) 109401 mechanical property, and wear behavior of NiAl-based high-entropy alloy. 
+Corrosion behavior of Al0.8CrFeCoNiCu0.5B0.1 high-en high entropy alloys with scandium. corrosion behavior of 
+CoCrNiAlTi- based high entropy alloy, Mater. Chem. Phys. (2023) 111165 evaluation of Al1.2CoCrFeNiScx.Tribol. Int. 
+153 (2021) 106599. behavior of AlCrxFeNi2Cu1.6 high entropy alloys. J. Miao, H. Yao, J. Wang, Y. Lu, T. Wang and 
+T. Li, Surface modification for 076501.AlCoCrFeNi 2.1 eutectic high-entropy alloy via laser remelting technology.. 39 
+[39] H. Kobayakawa, H. Maruyama, T. Wakabayashi, M. Nakayama, Thin film. coating of Mg-intercalated layered MnO2 to 
+suppress chlorine evolution at an IrO2.Alloy. of Al0.8CrFeNi2.2 eutectic high entropy alloy in different media, J. 
+Alloy. Compd. 944 (2023) 169217.8.8 (2024) 17.944.9 (2025) 16.945.9. (2026) 169117.9 (-20) 169017.7 (2027) 169317.6 
+(2028) 168717.5 (2029) 168317.2 (2030) 168217.4 (2031) 168117.3 (2032) 168017.1 (2033) 167917.0 (2034) 167817.05 (2035)
+167717.06 (2036) 167617.07 (2037) 167217.08 (2038) 167317.09 (2039) 167417.10 (2040) 167517.11 (2041) 167017.12 (2042)
+167117.13 (2043) 166817.14 (2044) 166617.15 (2045) 166717.16 (2046) 166917.19 (2051) 166417.20 (2052) 166217.21 (2053) 
+166317.22 (2054) 166517.23 (2055) 166117.24 (2056) 166017.25 (2057) 165917.26 (2060) 165817.28 (2061) 165617.29 (2062) 
+165717.30 (2063) 165417.31 (2064) 165517.32 (2065) 1665617.36 (2066) 1665717.38 (2067) 1665917.39 (2068) 1664817.40 
+(2069) 1664917.50 (2070) 1664717.49 (2071) 166507.50. (1972) 1664617.55 (2073) 16664.5(2074) 16764.6(2075) 1668717.59 
+(2074). (7) (16758.5) 16708.6. (7).6 (8) 16685.5. (9) (16756.6) (2) 16787.6, (7), (8), (7,7,8, (8,6,7) (8).6,8) (9), 
+(9,9,5,2,2) (6,6), (2,7),(8,5) (4,5), (5,8),(7,4,4) (3,6) and (8,.6,2), (6) & (7,.4,3) (1,7,.2,1,4), (4),(6,3,4). 
+(2),2,4,(.4), (6.4,2,.2,). (6),4,6,. (4) &(7),2,3,. (3),6,4.2, (5),4,1,. (5),3,5,.

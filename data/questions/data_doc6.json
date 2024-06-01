@@ -1,0 +1,362 @@
+[
+    {
+        "question": "What is the crystal structure of CoCrFeMnNi alloy in its passivation film?",
+        "answer": "The crystal structure of CoCrFeMnNi alloy in its passivation film is FCC (Face-Centered Cubic)."
+    },
+    {
+        "question": "How do interstitial atoms C, N, and B affect the solution and precipitate in CoCrFeMnNi alloys?",
+        "answer": "The atomic radius of C is less than 0.1 nm, which allows it to directly enter the lattice gap, improving corrosion resistance. Interstitial atoms C, N, and B greatly affect the solution and precipitate in CoCrFeMnNi alloys."
+    },
+    {
+        "question": "What is the effect of adding an appropriate amount of C on corrosion resistance in acidic solutions?",
+        "answer": "The addition of an appropriate amount of C has a positive effect on corrosion resistance in alkaline solutions, not mentioned for acidic solutions."
+    },
+    {
+        "question": "How do different element ratios affect the corrosion properties of CoCrFeMnNi alloys?",
+        "answer": "Different element ratios can lead to the formation of FCC phase and M7C3 carbide (or M23C6 carbide) phase, which affects corrosion resistance."
+    },
+    {
+        "question": "What is the role of C atoms in HEAs (High-Entropy Alloys)?",
+        "answer": "There is much research on C atoms in HEAs. Interstitial atoms C can directly enter the lattice gap and improve corrosion resistance."
+    },
+    {
+        "question": "How does grain refining or precipitation affect corrosion behavior?",
+        "answer": "Grain refining or precipitation can lead to other corrosion behavior, which affects the nical properties of the alloy."
+    },
+    {
+        "question": "What is the effect of annealing on dendrite structure evolution in CoCrFeMnNi alloys?",
+        "answer": "The effect of annealing on dendrite structure evolution was not explicitly mentioned in the paper."
+    },
+    {
+        "question": "How does backscatter diffraction (EBSD) examine the microstructure of CoCrFeMnNi alloys?",
+        "answer": "The microstructure of CoCrFeMnNi alloys was further examined using backscatter diffraction (EBSD, OXFORD NordlysNao)."
+    },
+    {
+        "question": "What was the type of corrosion test used to study the behavior of CoCrFeMnNi alloy?",
+        "answer": "The type of corrosion test used was Electrochemical Impedance Spectroscopy (EIS) in a neutral corrosion solution."
+    },
+    {
+        "question": "What was the voltage scanning range for potentiodynamic polarization test?",
+        "answer": "The voltage scanning range for potentiodynamic polarization test was 0.5 - +0.5 volts versus Open Circuit Potential (OCP)."
+    },
+    {
+        "question": "What was the scanning rate used for potentiodynamic polarization test?",
+        "answer": "The scanning rate used for potentiodynamic polarization test was 0.5 mV/s."
+    },
+    {
+        "question": "How long was the CoCrFeMnNi alloy immersed in 3.5 wt% NaCl solution without stirring?",
+        "answer": "The CoCrFeMnNi alloy was immersed in 3.5 wt% NaCl solution without stirring for 2 hours."
+    },
+    {
+        "question": "What was the purpose of open circuit potential (OCP) test after adding carbon soaking to the sample?",
+        "answer": "The purpose of open circuit potential (OCP) test after adding carbon soaking to the sample was to study the influence mechanism of C on the corrosion behavior of CoCrFeMnNi alloy."
+    },
+    {
+        "question": "What was used as raw material for preparing high-entropy alloys (HEAs)?",
+        "answer": "High-purity metal Co, Cr, Fe, Mn, and Ni particles with a purity of 3.99 wt% were used as raw material for preparing HEAs."
+    },
+    {
+        "question": "How long did the samples immerse in the corrosion solution under natural ventilation?",
+        "answer": "The samples immersed in the corrosion solution under natural ventilation for 30 days."
+    },
+    {
+        "question": "What was used to analyze the composition of corrosion product?",
+        "answer": "Raman spectroscopy was used to analyze the composition of corrosion product."
+    },
+    {
+        "question": "What is observed in the dendrite spacing in the HEAs?",
+        "answer": "Tly larger dendrite spacing is observed in the HEAs, suggesting that the increased carbon content has an impact on the nucleation and growth behavior of the dendrites."
+    },
+    {
+        "question": "How does the driving energy for grain growth change in the C02 alloy?",
+        "answer": "The driving energy for grain growth increases in the C02 alloy due to its higher carbon content, resulting in grains growing into long rods."
+    },
+    {
+        "question": "What is attributed to the presence of carbon in solid solution in the C08 alloy?",
+        "answer": "A 20 kV accelerating voltage and 15 mm working distance are attributed to the presence of carbon in solid solution, which may affect dendrite growth."
+    },
+    {
+        "question": "How does the microstructure change after annealing at 800 ◦C in the C00 alloy?",
+        "answer": "The microstructure of the C00 alloy undergoes significant changes after annealing at 800 ◦C."
+    },
+    {
+        "question": "What is observed in the microstructure of the C02 alloy after annealing at 1000 ◦C?",
+        "answer": "Further changes are observed in the microstructure of the C02 alloy after annealing at 1000 ◦C, including a shift towards dense dots and the formation of carbides within the grains."
+    },
+    {
+        "question": "What is suggested by the shift in the microstructure of the C02 alloy?",
+        "answer": "The presence of more carbon atoms is suggested to result in the formation of dense dots, indicating a change in the FCC matrix phase."
+    },
+    {
+        "question": "What is the effect of carbon addition on carbide formation in CoCrFeMnNi alloys?",
+        "answer": "The addition of 0.8at% C did not detect any carbide peak in the as-cast alloy, which is consistent with Ref."
+    },
+    {
+        "question": "What is the corrosion behavior of high entropy alloys?",
+        "answer": "The corrosion behavior of high entropy alloys is enhanced, with a higher corrosion current density and pit nucleation resistance. This suggests that the presence of multiple elements and microstructure influences the corrosion properties."
+    },
+    {
+        "question": "Which alloy exhibits the highest corrosion current density?",
+        "answer": "The C08 alloy exhibits the highest corrosion current density, indicating enhanced corrosion behavior due to its unique microstructure and composition."
+    },
+    {
+        "question": "What is the effect of annealing treatment on pit nucleation resistance?",
+        "answer": "The annealing treatment improves the pit nucleation resistance, suggesting that the FCC grains do not exhibit a significant impact on corrosion properties."
+    },
+    {
+        "question": "Why does the FCC grain structure exhibit no resistance to corrosion?",
+        "answer": "The FCC grains do not exhibit any resistance to corrosion due to their inherent properties and microstructure. This is evident from the absence of any noticeable color variations or sub-grain orientations."
+    },
+    {
+        "question": "What is the significance of the Ep-Ecorr value in the paper?",
+        "answer": "The Ep-Ecorr value represents the influence of carbides and microstructure on corrosion properties, with higher values indicating enhanced corrosion behavior. In this case, the C08 alloy exhibits the highest Ep-Ecorr value."
+    },
+    {
+        "question": "What is the difference between the corrosion current density of the as-cast C04 alloy and the other alloys?",
+        "answer": "The corrosion current density corresponding to 0.25V SCE was found to be the lowest for the as-cast C04 alloy among all alloys, indicating a unique corrosion behavior."
+    },
+    {
+        "question": "Why do some regions in the metallographic microscopy appear with subtle color variations?",
+        "answer": "The regions with subtle color variations indicate differences in sub-grain orientations, which can affect the corrosion properties of the high entropy alloys."
+    },
+    {
+        "question": "What is observed in the as-cast C00 alloy under metallographic microscopy?",
+        "answer": "Numerous non-uniformly distributed pits are observed in the as-cast C00 alloy under metallographic microscopy, with corroded grain boundaries displaying a characteristic feature."
+    },
+    {
+        "question": "What is the significance of the width of the passivation zone for corrosion properties?",
+        "answer": "The width of the passivation zone represents the degree of corrosion resistance, with higher values indicating enhanced corrosion behavior. The C08 alloy exhibits the highest width of the passivation zone."
+    },
+    {
+        "question": "What is the corrosion potential of the as-cast C04 alloy?",
+        "answer": "The as-cast C04 alloy, with an appropriate carbon content of 0.2at% and CoCrFeMnNi HEA with different carbon contents in 3.5wt% NaCl solution, shows the largest arc radius, indicating the highest corrosion potential."
+    },
+    {
+        "question": "What is the effect of adding a suitable amount of carbon on the corrosion resistance of the alloy?",
+        "answer": "Adding a suitable amount of carbon can effectively enhance the alloy's corrosion resistance."
+    },
+    {
+        "question": "How does the corrosion resistance of the as-cast C08 alloy compare to that of the as-cast C04 alloy?",
+        "answer": "The corrosion resistance of the as-cast C08 alloy decreases due to galvanic corrosion induced by the precipitation of numerous carbides, whereas the as-cast C04 alloy shows the highest corrosion potential."
+    },
+    {
+        "question": "What is the difference in corrosion resistance between the annealed C04 alloy and the as-cast C04 alloy?",
+        "answer": "The corrosion resistance of the annealed C04 alloy is superior to that of the as-cast C04 alloy, which is consistent with the grain impedance."
+    },
+    {
+        "question": "What is the impact of carbon content on the corrosion properties of the CoCrFeMnNi HEA?",
+        "answer": "The addition of a suitable amount of carbon can enhance the corrosion resistance of the CoCrFeMnNi HEA, but excessive carbon content can lead to galvanic corrosion and decreased corrosion resistance."
+    },
+    {
+        "question": "What is the nature of intergranular corrosion in the as-cast C08 alloy?",
+        "answer": "The intergranular corrosion phenomenon is more pronounced in the as-cast C08 alloy, with some areas showing severe corrosion."
+    },
+    {
+        "question": "How do the dendrites in the as-cast C04 and C08 alloys compare?",
+        "answer": "The dendrites in the as-cast C08 alloy are thicker than those in the as-cast C04 alloy."
+    },
+    {
+        "question": "What is the relationship between grain impedance and corrosion resistance?",
+        "answer": "The grain impedance (ZCPE) can be calculated, and it is consistent with the superior corrosion resistance of the annealed C04 alloy."
+    },
+    {
+        "question": "What types of corrosion products can be indexed in Raman spectra according to different phases of corrosion?",
+        "answer": "According to Fig. 9, different phases of corrosion can be indexed in Raman spectra."
+    },
+    {
+        "question": "Why do the alloys exhibit typical dendritic structures as shown in Fig. 1?",
+        "answer": "The alloys have a higher tendency to form FCC solid solutions rather than intermetallic compounds during the solidification process, which leads to the formation of nonparallel dendrite arms due to component supercooling."
+    },
+    {
+        "question": "What is the tendency of CoCrFeMnNiCx alloys regarding galvanic corrosion?",
+        "answer": "The CoCrFeMnNiCx alloys have a strong tendency for galvanic corrosion, which can lead to corrosion around carbides."
+    },
+    {
+        "question": "Why does corrosion occur around carbides in these alloys?",
+        "answer": "Corrosion around carbides can either be due to galvanic corrosion or due to Cr-depletion that segregates at grain boundaries."
+    },
+    {
+        "question": "What is the characteristic of the surface with numerous corrosion products?",
+        "answer": "The surface with numerous corrosion products has a high dislocation density at the grain boundaries and dendrites, which improves the protective performance of the matrix."
+    },
+    {
+        "question": "Can you explain the role of carbide precipitation in these alloys?",
+        "answer": "Although carbide precipitation is expected to improve the corrosion resistance of these alloys, it can also be a factor that contributes to corrosion due to galvanic corrosion or Cr-depletion at grain boundaries."
+    },
+    {
+        "question": "What is the relationship between the dendrite microstructure and the secondary dendrites in the as-cast C04 alloy?",
+        "answer": "The secondary dendrites in the as-cast C04 alloy are of similar length to the dendrite microstructure."
+    },
+    {
+        "question": "How do the CoCrFeMnNiCx alloys differ from other alloys regarding corrosion resistance?",
+        "answer": "These alloys have a higher tendency for galvanic corrosion compared to other alloys, which can lead to unique corrosion behavior."
+    },
+    {
+        "question": "What is the protective performance of the matrix in these alloys?",
+        "answer": "The high dislocation density at the grain boundaries and dendrites improves the protective performance of the matrix, allowing it to resist corrosion effectively."
+    },
+    {
+        "question": "What is the corrosion resistance like for C04 alloy annealed at 1000°C?",
+        "answer": "The corrosion resistance of the C04 alloy annealed at 1000°C is still the highest. This is attributed to the pinning effect on grain boundary movement, inhibiting the formation of unstable subcrystalline structure."
+    },
+    {
+        "question": "What happens to grain boundaries in LAGB?",
+        "answer": "Low-angle grain analysis boundaries (LAGB) are more prone to significant dislocation, providing abundant grain boundaries that serve as nucleation channels for ion dissolution and diffusion."
+    },
+    {
+        "question": "Why might pitting pits arise from the loss of some carbides from the cathode?",
+        "answer": "Pitting pits may arise from the loss of some carbides from the cathode, while the dendrite with a lower electrode potential becomes rapidly dissolving regions."
+    },
+    {
+        "question": "What does Raman testing confirm about the presence of hydroxides in CoCrFeMnNiCx HEAs?",
+        "answer": "Raman testing confirms the presence of unstable hydroxides in CoCrFeMnNiCx HEAs. The higher the C content, the more difficult it is to form these hydroxides."
+    },
+    {
+        "question": "How does the addition of C affect the microstructure of CoCrFeMnNiCx HEAs?",
+        "answer": "The addition of C affects the alloy's microstructure, influencing coarsening as the carbon content further increased to 0.8at%. The dendrites in the as-cast C02 and C04 alloys are more compact, and the finer grain structure is maintained."
+    },
+    {
+        "question": "What happens to the dendrites in the as-cast C02 and C04 alloys?",
+        "answer": "The dendrites in the as-cast C02 and C04 alloys are more compact, indicating a finer grain structure."
+    },
+    {
+        "question": "How does increasing carbon content affect the microstructure of CoCrFeMnNiCx HEAs?",
+        "answer": "Increasing carbon content further coarsens the microstructure as it increased to 0.8at%."
+    },
+    {
+        "question": "What is the effect of C addition on the corrosion behavior of CoCrFeMnNiCx HEAs in a 3.5wt% NaCl solution?",
+        "answer": "The C addition affects the corrosion behavior of CoCrFeMnNiCx HEAs in a 3.5wt% NaCl solution, influencing its microstructure and corrosion properties."
+    },
+    {
+        "question": "Why is the corrosion resistance of C04 alloy annealed at 1000°C still high?",
+        "answer": "The corrosion resistance of the C04 alloy annealed at 1000°C remains high due to the pinning effect on grain boundary movement, inhibiting the formation of unstable subcrystalline structure."
+    },
+    {
+        "question": "What is the effect of C content on dendrite spacing?",
+        "answer": "When the C content reaches 0.8at%, the dendrite spacing increases, which aggravates local pitting and decreases corrosion resistance."
+    },
+    {
+        "question": "How does the presence of C in the as-cast alloy affect its passivation ability and pitting corrosion resistance?",
+        "answer": "The presence of C in the as-cast alloy improves its passivation ability and enhances its pitting corrosion resistance compared to the CoCrFeMnNi HEA."
+    },
+    {
+        "question": "What is the effect of 0–0.4at% C on pitting behavior?",
+        "answer": "The presence of 0–0.4at% C weakens the pitting behavior, resulting in a reduction in the size of pits on the alloy surface."
+    },
+    {
+        "question": "What is the corrosion behavior like in alloys containing 0.4at%C?",
+        "answer": "Alloys containing 0.4at%C exhibited predominant intergranular corrosion."
+    },
+    {
+        "question": "How does the C content affect the corrosion behavior again?",
+        "answer": "The corrosion behaviour of CoCrFeMnNi HEA enhanced again in the alloy containing 0.8at% C."
+    },
+    {
+        "question": "What is the optimal annealing temperature for the highest corrosion resistance?",
+        "answer": "The highest corrosion resistance was observed in the 1000°C annealed state."
+    },
+    {
+        "question": "What is the corrosion behavior of CoCrFeMnNi high-entropy alloy in acidic chloride solution?",
+        "answer": "According to the study, CoCrFeMnNi HEA exhibits excellent corrosion resistance in acidic chloride solutions. The thin films showed no significant signs of corrosion or degradation, indicating its potential for use in harsh environments."
+    },
+    {
+        "question": "What is the effect of N-alloying on the corrosion behavior of CoCrFeMnNi high-entropy alloy?",
+        "answer": "N-alloying has been found to significantly enhance the corrosion resistance of CoCrFeMnNi HEA. The study suggests that N-alloying can improve the protective properties of the alloy, making it more resistant to corrosive environments."
+    },
+    {
+        "question": "What is the role of dislocation pathways in the phase diagram of CrMnFeCoNi high-entropy alloy?",
+        "answer": "The selective laser sintering process creates roughened dislocation pathways that can influence the phase diagram of CrMnFeCoNi HEA. This study suggests that these pathways play a crucial role in shaping the microstructure and properties of the alloy."
+    },
+    {
+        "question": "What is the importance of understanding the corrosion behavior of high-entropy alloys?",
+        "answer": "Understanding the corrosion behavior of high-entropy alloys is crucial for their potential applications. Corrosion resistance is a critical factor that determines the reliability and lifespan of these alloys, making it essential to study their corrosion properties."
+    },
+    {
+        "question": "Can CoCrFeMnNi high-entropy alloy be used in harsh environments?",
+        "answer": "Yes, according to the study, CoCrFeMnNi HEA exhibits excellent corrosion resistance in acidic chloride solutions, indicating its potential for use in harsh environments where corrosion is a concern."
+    },
+    {
+        "question": "What is the effect of N-alloying on the properties of CoCrFeMnNi high-entropy alloy?",
+        "answer": "N-alloying has been found to improve the protective properties of CoCrFeMnNi HEA, making it more resistant to corrosive environments. This suggests that N-alloying can enhance the overall performance and reliability of the alloy."
+    },
+    {
+        "question": "What is the significance of studying the phase diagram of CrMnFeCoNi high-entropy alloy?",
+        "answer": "Studying the phase diagram of CrMnFeCoNi HEA provides valuable insights into its microstructure and properties. This knowledge can help optimize the processing conditions and applications of the alloy, ensuring its optimal performance."
+    },
+    {
+        "question": "Can CoCrFeMnNi high-entropy alloy be used in acidic environments?",
+        "answer": "Yes, according to the study, CoCrFeMnNi HEA exhibits excellent corrosion resistance in acidic chloride solutions, indicating its potential for use in acidic environments where corrosion is a concern."
+    },
+    {
+        "question": "What is the role of selective laser sintering in shaping the phase diagram of CrMnFeCoNi high-entropy alloy?",
+        "answer": "Selective laser sintering creates roughened dislocation pathways that can influence the phase diagram of CrMnFeCoNi HEA. This process shapes the microstructure and properties of the alloy, making it essential to understand its effects on the phase diagram."
+    },
+    {
+        "question": "What is the corrosion resistance of N-doped CoCrFeNi high-entropy alloy in dilute sulphuric acid?",
+        "answer": "The N-doped CoCrFeNi high-entropy alloy shows more than doubled corrosion resistance in dilute sulphuric acid."
+    },
+    {
+        "question": "What are the corrosion behavior and properties of CoCrFeMnNi high-entropy alloy fabricated by laser powder bed fusion?",
+        "answer": "The CoCrFeMnNi high-entropy alloy exhibits a quenched and passive film, which affects its corrosion behavior."
+    },
+    {
+        "question": "What is the comparison of corrosion resistance between N-doped CoCrFeNi high-entropy alloy and Mg-Zn-Zr alloy?",
+        "answer": "There is no direct comparison provided in the paper; however, it highlights the corrosion properties of each material separately."
+    },
+    {
+        "question": "How does the microstructure affect the mechanical properties of carbon-containing high-entropy alloys?",
+        "answer": "The processing conditions on microstructure and mechanical properties are discussed, but there is no specific mention of how the microstructure affects the mechanical properties of carbon-containing high-entropy alloys."
+    },
+    {
+        "question": "What is the corrosion resistance of CoCrFeMnNi high-entropy alloy in mild solution?",
+        "answer": "The CoCrFeMnNi high-entropy alloy exhibits high strength and ductility in mild solution, but there is no specific information on its corrosion resistance."
+    },
+    {
+        "question": "How do the stability conditions of the steady-state affect the structure of CoCrFeNiMn high-entropy alloy?",
+        "answer": "The paper discusses the effect of cryo-deformation on the structure of CoCrFeNiMn high-entropy alloy, but it does not explicitly relate this to the stability conditions of the steady-state."
+    },
+    {
+        "question": "What is the role of one state variable besides in determining the properties of CoCrFeNiMn high-entropy alloy?",
+        "answer": "The paper discusses the effect of cryo-deformation on the structure and properties of CoCrFeNiMn high-entropy alloy, but it does not provide information on the specific role of one state variable besides."
+    },
+    {
+        "question": "What is the impact of processing conditions on the microstructure and mechanical properties of carbon-containing high-entropy alloys?",
+        "answer": "The paper highlights the importance of processing conditions in determining the microstructure and mechanical properties of carbon-containing high-entropy alloys, but it does not provide a detailed explanation."
+    },
+    {
+        "question": "How do the corrosion properties of CoCrFeMnNi high-entropy alloy compare to those of N-doped CoCrFeNi high-entropy alloy?",
+        "answer": "The paper compares the corrosion resistance of N-doped CoCrFeNi high-entropy alloy in dilute sulphuric acid, but it does not provide a direct comparison with the corrosion properties of CoCrFeMnNi high-entropy alloy."
+    },
+    {
+        "question": "What is the effect of Mn and V on inclusions in high strength low alloy steel?",
+        "answer": "According to the paper, the addition of Mn and V can significantly reduce the size and number of inclusions in high-strength low-alloy (HSLA) steel. This is because both elements have a strong affinity for carbon and can form carbides that precipitate out of the matrix, reducing the amount of free carbon available to form inclusions."
+    },
+    {
+        "question": "What are the corrosion properties of high-entropy alloys?",
+        "answer": "The paper does not specifically discuss the corrosion properties of high-entropy alloys. However, it mentions that TiN-containing V can induce localized corrosion, suggesting that high-entropy alloys may exhibit unique corrosion behavior due to their complex composition."
+    },
+    {
+        "question": "What is the mechanism of localized corrosion induced by TiN-containing V?",
+        "answer": "According to the paper, the exact mechanism of localized corrosion induced by TiN-containing V is not fully understood. However, it suggests that the presence of TiN may create a micro-environment conducive to localized corrosion, potentially due to the formation of a passive film that can break down under certain conditions."
+    },
+    {
+        "question": "Can high-entropy alloys exhibit unique corrosion behavior?",
+        "answer": "Yes, according to the paper, high-entropy alloys may exhibit unique corrosion behavior due to their complex composition. The addition of TiN-containing V, in particular, has been shown to induce localized corrosion, suggesting that these alloys can exhibit distinct corrosion properties."
+    },
+    {
+        "question": "What is the role of TiN in inducing localized corrosion?",
+        "answer": "According to the paper, the presence of TiN may create a micro-environment conducive to localized corrosion. This could be due to the formation of a passive film that can break down under certain conditions, leading to localized corrosion."
+    },
+    {
+        "question": "Can Mn and V reduce inclusions in HSLA steel?",
+        "answer": "Yes, according to the paper, the addition of Mn and V can significantly reduce the size and number of inclusions in high-strength low-alloy (HSLA) steel."
+    },
+    {
+        "question": "What is the composition of the high-entropy alloys mentioned in the paper?",
+        "answer": "The paper mentions high-entropy alloys based on CoCrFeNi, which suggests that these alloys have a complex composition with multiple elements."
+    },
+    {
+        "question": "Can TiN-containing V induce localized corrosion?",
+        "answer": "Yes, according to the paper, TiN-containing V can induce localized corrosion in certain conditions."
+    }
+]
